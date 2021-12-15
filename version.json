@@ -1,5 +1,6 @@
 {
   "on":true, 
   "portrait":true, 
+  "headers":"alipay|weixin|mqq|wechat",
   "url":"https://baidu.com?idfa=__IDFA__"
 }
