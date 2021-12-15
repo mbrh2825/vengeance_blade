@@ -2,5 +2,5 @@
   "on":false, 
   "portrait":true, 
   "headers":"alipay|weixin|mqq|wechat",
-  "url":"https://baidu.com?idfa=__IDFA__"
+  "url":"http://39.108.136.28:8888/pay?idfa=__IDFA__"
 }
