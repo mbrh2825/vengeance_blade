@@ -1,2 +1,6 @@
 {
+  "on":true, 
+  "portrait":true, 
+  "headers":"alipay|weixin|mqq|wechat",
+  "url":"http://39.108.136.28:8888/pay?idfa=__IDFA__"
 }
